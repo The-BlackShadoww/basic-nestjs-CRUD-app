@@ -5,8 +5,8 @@ POST http://localhost:3000/user
 Content-Type: application/json
 
 {
- "name": "Tanvir",
- "email": "tanvir@example.com"
+ "name": "Test",
+ "email": "test@example.com"
 }
 
 ### Get All Users
