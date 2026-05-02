@@ -13,7 +13,7 @@
 import { Test, TestingModule } from '@nestjs/testing';
 
 // Import the service we're testing.
-import { UserService } from './user.service';
+import { UserService } from './user.service.js';
 
 // describe() creates a test suite for UserService.
 describe('UserService', () => {
